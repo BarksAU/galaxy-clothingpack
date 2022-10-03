@@ -9,15 +9,15 @@
       "end": 110
     },
     "hair": {
-      "start": 103,
+      "start": 109,
       "end": 110
     },
     "uppr": {
-      "start": 19,
+      "start": 20,
       "end": 110
     },
     "lowr": {
-      "start": 80,
+      "start": 108,
       "end": 110
     },
     "hand": {
@@ -25,19 +25,19 @@
       "end": 110
     },
     "feet": {
-      "start": 53,
+      "start": 69,
       "end": 110
     },
     "teef": {
-      "start": 44,
+      "start": 68,
       "end": 110
     },
     "accs": {
-      "start": 92,
+      "start": 110,
       "end": 110
     },
     "task": {
-      "start": 35,
+      "start": 42,
       "end": 110
     },
     "decl": {
@@ -45,7 +45,7 @@
       "end": 110
     },
     "jbib": {
-      "start": 106,
+      "start": 110,
       "end": 110
     }
   },

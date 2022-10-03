@@ -17,7 +17,7 @@
       "end": 110
     },
     "lowr": {
-      "start": 63,
+      "start": 65,
       "end": 110
     },
     "hand": {
@@ -37,7 +37,7 @@
       "end": 110
     },
     "task": {
-      "start": 38,
+      "start": 37,
       "end": 110
     },
     "decl": {
@@ -45,7 +45,7 @@
       "end": 110
     },
     "jbib": {
-      "start": 84,
+      "start": 101,
       "end": 110
     }
   },
